@@ -6,3 +6,5 @@ Master's Programme: Data Science, Big Data and Artificial Intelligence.
 
 ## In this repository you will find...
 - Two jupyter notebooks with the implementation of the project: data preprocessing, statistical analysis and Machine Learning models application and evaluation.
+- A log file "log.log" with a summary of discoveries, modifications and advancements regarding this project (in Spanish).
+- And this <b>README.md<\b> with the description of the project.
