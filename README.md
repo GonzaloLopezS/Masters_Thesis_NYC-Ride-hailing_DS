@@ -1,4 +1,8 @@
 # Master's Thesis
-A project in which I develop ML models to analyse rides in NYC and a data scientist approach..
+This Master's thesis analyzes trips made by high-volume FHV services in New York City, with the objective of segmenting trip behavior and generating prediction models to estimate driver pay. The study is based on data provided by the New York Taxi and Limousine Commission (TLC).
+Given the large amount of available data, statistical inference models are used to address computational requirements.
 
 Master's Programme: Data Science, Big Data and Artificial Intelligence.
+
+# In this repository you will find...
+- Two jupyter notebooks with the implementation of the project: data preprocessing, statistical analysis and Machine Learning models application and evaluation.
